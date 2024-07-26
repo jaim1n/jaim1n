@@ -4,7 +4,7 @@
 [![Languages](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,md)](https://skillicons.dev)
 
 ### Software and Tools
-[![Software and Tools](https://skillicons.dev/icons?i=git,visualstudio,kali,py,ps)](https://skillicons.dev)
+[![Software and Tools](https://skillicons.dev/icons?i=git,visualstudio,kali,ps)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
