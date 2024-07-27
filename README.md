@@ -4,7 +4,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,lua,md)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,lua,md)](https://skillicons.dev)
 
 ### Software and Tools
 [![Software and Tools](https://skillicons.dev/icons?i=visualstudio,git,kali,ps,ableton)](https://skillicons.dev)
