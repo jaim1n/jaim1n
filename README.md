@@ -2,6 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=EEEEEE&width=435&lines=my+name+is+jaimin;i+practice+coding%2C;cybersecurity%2C;and+other+things)](https://git.io/typing-svg)
 
 I'm a computer science student at Valencia College in Orlando.
+
+<img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="200" height="150"/>
+<img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50x.png?raw=true" alt="CS50x Certificate" width="200" height="150"/>
+
 ### I'm interested in...
 - :headphones: Various subgenres of rap music
 - :video_game: Video games (first-person shooters, mostly)
