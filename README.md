@@ -4,14 +4,14 @@
 ## <img src="assets/skills.gif" width ="25"><b> Skills</b>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,c,html,css,js,lua,md)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,html,md)](https://skillicons.dev)
 
 ### Software and Tools
-[![Software and Tools](https://skillicons.dev/icons?i=visualstudio,git,kali,ps,ableton)](https://skillicons.dev)
+[![Software and Tools](https://skillicons.dev/icons?i=visualstudio,git,kali,ps)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=cpp,cs,unreal,apple,raspberrypi,ae)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c,cpp,css,js,lua)](https://skillicons.dev)
 
-## <img src="assets/stats.gif" width="35"><b> Github Stats </b>
+## <img src="assets/stats.gif" width="35"><b> Github Stats</b>
 
 [![jaim1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaim1n)](https://github.com/jaim1n/github-readme-stats)
