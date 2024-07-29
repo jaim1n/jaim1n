@@ -23,7 +23,7 @@ I'm a computer science student at Valencia College in Orlando.
 [![Software and Tools](https://skillicons.dev/icons?i=visualstudio,git,kali,ps)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=c,cpp,css,js,lua)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c,cpp,css,js)](https://skillicons.dev)
 
 ## <img src="assets/stats.gif" width="35"><b> GitHub Stats</b>
 
