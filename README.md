@@ -1,7 +1,7 @@
 # < hello/ >! <img src = "assets/wave.gif" width = 30px>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=EEEEEE&width=435&lines=my+name+is+jaimin;i+practice+coding%2C;cybersecurity%2C;and+other+things)](https://git.io/typing-svg)
 
-I'm a computer science student at Valencia College in Orlando. Enrolled in many CS50 courses and have completed the following:
+I'm a computer science student at Valencia College in Orlando. Currently enrolled in many CS50 courses and have completed the following:
 
 <p float="left">
   <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="350" />
