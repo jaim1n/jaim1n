@@ -17,6 +17,6 @@
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=c,cpp,css,js,lua)](https://skillicons.dev)
 
-## <img src="assets/stats.gif" width="35"><b> Github Stats</b>
+## <img src="assets/stats.gif" width="35"><b> GitHub Stats</b>
 
 [![jaim1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaim1n)](https://github.com/jaim1n/github-readme-stats)
