@@ -3,11 +3,13 @@
 
 I'm a computer science student at Valencia College in Orlando.
 
-<div class="column">
-  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="200" height="150"/>
-</div>
-<div class="column">
-  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50x.png?raw=true" alt="CS50x Certificate" width="200" height="150"/>
+<div style="display: flex;">
+  <div style="margin: 5px;">
+    <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="200" height="150"/>
+  </div>
+  <div style="margin: 5px;">
+    <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50x.png?raw=true" alt="CS50x Certificate" width="200" height="150"/>
+  </div>
 </div>
 
 ### I'm interested in...
