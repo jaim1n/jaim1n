@@ -4,8 +4,8 @@
 I'm a computer science student at Valencia College in Orlando.
 
 <p float="left">
-  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="200" height="150"/>
-  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50x.png?raw=true" alt="CS50x Certificate" width="200" height="150"/>
+  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="300" height="232"/>
+  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50x.png?raw=true" alt="CS50x Certificate" width="300" height="232"/>
 </p>
 
 ### I'm interested in...
