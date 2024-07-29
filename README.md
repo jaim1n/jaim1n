@@ -3,11 +3,10 @@
 
 I'm a computer science student at Valencia College in Orlando.
 
-<figure float="left">
+<p float="left">
   <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="350" />
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
   <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50x.png?raw=true" alt="CS50x Certificate" width="350" />
-</figure>
+</p>
 
 ### I'm interested in...
 - :headphones: Various subgenres of rap music
