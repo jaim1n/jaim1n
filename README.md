@@ -4,9 +4,10 @@
 I'm a computer science student at Valencia College in Orlando.
 
 Currently enrolled in many of Harvard University's CS50 courses and have completed the following:
-**CS50’s Introduction to Computer Science**
-**CS50’s Introduction to Programming with Python**
-**CS50’s Introduction to Cybersecurity**
+
+- **CS50’s Introduction to Computer Science**
+- **CS50’s Introduction to Programming with Python**
+- **CS50’s Introduction to Cybersecurity**
 
 <p float="left">
   <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="350" />
