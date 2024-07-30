@@ -8,11 +8,6 @@ Currently enrolled in many of Harvard University's CS50 courses and have complet
 - **CS50’s Introduction to Programming with Python**
 - **CS50’s Introduction to Cybersecurity**
 
-<p float="left">
-  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50P.png?raw=true" alt="CS50P Certificate" width="350" />
-  <img src="https://github.com/jaim1n/jaim1n.github.io/blob/main/assets/certificates/CS50x.png?raw=true" alt="CS50x Certificate" width="350" />
-</p>
-
 ### I'm interested in...
 - :headphones: Various subgenres of rap music
 - :video_game: Video games (first-person shooters, mostly)
