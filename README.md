@@ -1,5 +1,5 @@
 # < hello/ >! <img src = "assets/wave.gif" width = 30px>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=750&color=EEEEEE&width=435&lines=my+name+is+jaimin;i+practice+coding%2C;cybersecurity%2C;and+other+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=EEEEEE&width=435&lines=my+name+is+jaimin.;i+practice+coding%2C;cybersecurity%2C;and+other+things.)](https://git.io/typing-svg)
 
 I'm a computer science student at Valencia College in Orlando. Currently enrolled in many CS50 courses and have completed the following:
 
