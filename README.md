@@ -4,7 +4,6 @@
 I'm a computer science student at Valencia College in Orlando.
 
 Currently enrolled in many of Harvard University's CS50 courses and have completed the following:
-
 - **CS50’s Introduction to Computer Science**
 - **CS50’s Introduction to Programming with Python**
 - **CS50’s Introduction to Cybersecurity**
