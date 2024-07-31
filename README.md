@@ -9,10 +9,9 @@ I'm a computer science student at Valencia College in Orlando and currently enro
 - :closed_lock_with_key: CS50’s Introduction to Cybersecurity
 
 ### I'm interested in...
-- :headphones: Various subgenres of rap music
-- :video_game: Video games (first-person shooters, mostly)
-- :iphone: iOS jailbreaking
-- :art: Graphic design
+- :headphones: Various Subgenres of Rap Music
+- :video_game: Video Games (First-Person Shooters, etc.)
+- :iphone: iOS Jailbreaking
 
 ## <img src="assets/skills.gif" width ="25"><b> Skills</b>
 
