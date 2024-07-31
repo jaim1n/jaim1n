@@ -1,12 +1,12 @@
 # < hello/ >! <img src = "assets/wave.gif" width = 30px>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=EEEEEE&width=435&lines=my+name+is+jaimin.;i+practice+coding%2C;cybersecurity%2C;and+other+things.)](https://git.io/typing-svg)
 
-I'm a computer science student at Valencia College in Orlando.
+I'm a computer science student at Valencia College in Orlando and currently enrolled in many of Harvard University's CS50 courses.
 
-Currently enrolled in many of Harvard University's CS50 courses and have completed the following:
-- **CS50’s Introduction to Computer Science**
-- **CS50’s Introduction to Programming with Python**
-- **CS50’s Introduction to Cybersecurity**
+### Recieved the following certificates:
+- :computer: CS50’s Introduction to Computer Science
+- :snake: CS50’s Introduction to Programming with Python
+- :closed_lock_with_key: CS50’s Introduction to Cybersecurity
 
 ### I'm interested in...
 - :headphones: Various subgenres of rap music
