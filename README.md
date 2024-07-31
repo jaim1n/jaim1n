@@ -3,7 +3,7 @@
 
 I'm a computer science student at Valencia College in Orlando and currently enrolled in many of Harvard University's CS50 courses.
 
-### Recieved the following certificates:
+### I've recieved certificates in...
 - :computer: CS50’s Introduction to Computer Science
 - :snake: CS50’s Introduction to Programming with Python
 - :closed_lock_with_key: CS50’s Introduction to Cybersecurity
