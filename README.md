@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=EEEEEE&width=435&lines=game+development;web+development;jailbreaking;music)](https://git.io/typing-svg)
 
-## Education
-### College
+## Qualifications
+### Higher Education
 #### Valencia College
 - Sophomore Psychology Major
 - Junior Computer Science Major
