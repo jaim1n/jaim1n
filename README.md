@@ -1,8 +1,3 @@
-# <<img src = "assets/wave.gif" width = 30px>hello, world! />
-My name is Jaimin Layne. I'm a full-time long haul truck driver, full-time college student, and self-taught junior software engineer with interests in...
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=EEEEEE&width=435&lines=game+development;web+development;jailbreaking;artificial+intelligence)](https://git.io/typing-svg)
-
 ## Qualifications
 ### Higher Education
 #### Valencia College
