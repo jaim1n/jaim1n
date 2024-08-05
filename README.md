@@ -2,9 +2,7 @@
 My name is Jaimin Layne. I'm a full-time truck driver, full-time college student, and self-taught programmer. Currently learning iOS and web development.
 
 <details>
-<summary>
-  Resume
-</summary>
+<summary>Resume</summary>
 
 ## Qualifications
 ### Higher Education
@@ -17,9 +15,9 @@ My name is Jaimin Layne. I'm a full-time truck driver, full-time college student
 
 ### Certificates
 #### Harvard University
-- CS50’s Introduction to Computer Science
-- CS50’s Introduction to Programming with Python
-- CS50’s Introduction to Cybersecurity
+- [CS50’s Introduction to Programming with Python](https://jaimin.xyz/assets/certificates/CS50P.png)
+- [CS50’s Introduction to Computer Science](https://jaimin.xyz/assets/certificates/CS50x.png)
+- [CS50’s Introduction to Cybersecurity](https://jaimin.xyz/assets/certificates/CS50%20Cybersecurity.png)
 
 ## Skills
 
