@@ -16,13 +16,10 @@
 ## Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,html,md)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,md)](https://skillicons.dev)
 
 ### Software and Tools
 [![Software and Tools](https://skillicons.dev/icons?i=visualstudio,git,kali,ps)](https://skillicons.dev)
-
-### Learning
-[![Learning](https://skillicons.dev/icons?i=c,cpp,css,js)](https://skillicons.dev)
 
 ## GitHub Stats
 [![jaim1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaim1n)](https://github.com/jaim1n/github-readme-stats)
