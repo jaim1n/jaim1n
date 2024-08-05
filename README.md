@@ -1,4 +1,4 @@
-# < hello, world!/ >
+# < <img src="assets/wave.gif" width="35"> hello, world!/ >
 My name is Jaimin Layne. I'm a full-time professional driver, full-time college student, and self taught programmer. Currently learning iOS and web-development.
 
 <details>
