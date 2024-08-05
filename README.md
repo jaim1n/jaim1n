@@ -3,7 +3,7 @@ My name is Jaimin Layne. I'm a full-time professional driver, full-time college 
 
 <details>
 <summary>
-  Expand
+  Resume
 </summary>
 
 ## Qualifications
