@@ -15,9 +15,10 @@ My name is Jaimin Layne. I'm a full-time truck driver, full-time college student
 
 ### Certificates
 #### Harvard University
-- [CS50’s Introduction to Programming with Python](https://jaimin.xyz/assets/certificates/CS50P.png)
-- [CS50’s Introduction to Computer Science](https://jaimin.xyz/assets/certificates/CS50x.png)
-- [CS50’s Introduction to Cybersecurity](https://jaimin.xyz/assets/certificates/CS50%20Cybersecurity.png)
+- **CS50**
+  - [Introduction to Programming with Python](https://jaimin.xyz/assets/certificates/CS50P.png)
+  - [Introduction to Computer Science](https://jaimin.xyz/assets/certificates/CS50x.png)
+  - [Introduction to Cybersecurity](https://jaimin.xyz/assets/certificates/CS50%20Cybersecurity.png)
 
 ## Skills
 
